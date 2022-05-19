@@ -1,3 +1,3 @@
 # AI-ABL
 
-AI Car CLassifier: Alfa Romeo - BMW - Lexus
+AI Car Image CLassifier: Alfa Romeo - BMW - Lexus
